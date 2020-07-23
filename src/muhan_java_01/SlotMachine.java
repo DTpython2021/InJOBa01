@@ -1,4 +1,4 @@
-package com.muhan.java;
+package muhan_java_01;
 import java.applet.*;
 import java.awt.BorderLayout;
 import java.awt.Button;
